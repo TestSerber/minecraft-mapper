@@ -25,4 +25,3 @@ jobs:
           ACTIONS_ALLOW_UNSECURE_COMMANDS: true
           BRANCH: gh-pages
           FOLDER: site
-        env:
