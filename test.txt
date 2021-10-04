@@ -1,0 +1,10 @@
+[
+  {
+    "gameVersion": "1.17.1",
+    "separator": "+build.",
+    "build": 61,
+    "maven": "net.fabricmc:yarn:1.17.1+build.61",
+    "version": "1.17.1+build.61",
+    "stable": false
+  }
+]
