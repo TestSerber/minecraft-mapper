@@ -1,10 +1,26 @@
 [
   {
+    "gameVersion": "21w39a",
+    "separator": "+build.",
+    "build": 11,
+    "maven": "net.fabricmc:yarn:21w39a+build.11",
+    "version": "21w39a+build.11",
+    "stable": true
+  },
+  {
     "gameVersion": "1.17.1",
     "separator": "+build.",
     "build": 61,
     "maven": "net.fabricmc:yarn:1.17.1+build.61",
     "version": "1.17.1+build.61",
+    "stable": false
+  },
+  {
+    "gameVersion": "1.16.5",
+    "separator": "+build.",
+    "build": 10,
+    "maven": "net.fabricmc:yarn:1.16.5+build.10",
+    "version": "1.16.5+build.10",
     "stable": false
   }
 ]
